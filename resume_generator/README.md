@@ -16,6 +16,7 @@ resume_generator/
 ├── results/
 │   ├── generated_resumes/     # Output folder for generated LaTeX resumes and PDFs
 │
+├── main.py                    # Main entry point for the project
 ├── README.md                  # Project overview and instructions
 ├── requirements.txt           # Project dependencies
 

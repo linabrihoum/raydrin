@@ -160,3 +160,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# Raw resume data (please download from https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
+resume_generator/data/resumes_raw/pdf_resumes/*
+resume_generator/data/resumes_raw/text_resumes/*
+
+# Clean resume data, please see README on how to extract
+resume_generator/data/resumes_clean/*

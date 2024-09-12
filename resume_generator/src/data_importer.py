@@ -1,7 +1,7 @@
 import os
 
 # Path to the text resumes
-text_resume_dir = os.path.join('..', 'data', 'text_resumes')
+text_resume_dir = os.path.join('../data/text_resumes')
 
 # Function to load and preprocess text resumes
 def load_text_resumes():
